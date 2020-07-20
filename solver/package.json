@@ -1,0 +1,62 @@
+{
+  "_from": "hcaptcha-solver@^1.0.0",
+  "_id": "hcaptcha-solver@1.0.2",
+  "_inBundle": false,
+  "_integrity": "sha512-mwFTJV6jwURmuiXehQZMCRIzN0NADYjipHVAMg68A54YRYmWdFUB8+tCcNmi7K8ZpkNnddblhoe+wHUVfnKfkg==",
+  "_location": "/hcaptcha-solver",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "hcaptcha-solver@^1.0.0",
+    "name": "hcaptcha-solver",
+    "escapedName": "hcaptcha-solver",
+    "rawSpec": "^1.0.0",
+    "saveSpec": null,
+    "fetchSpec": "^1.0.0"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/",
+    "/cloudflare-scraper"
+  ],
+  "_resolved": "https://registry.npmjs.org/hcaptcha-solver/-/hcaptcha-solver-1.0.2.tgz",
+  "_shasum": "3e1adcbd701cc40649736ca617e1727431b7d717",
+  "_spec": "hcaptcha-solver@^1.0.0",
+  "_where": "C:\\Users\\Godbuntu",
+  "author": {
+    "name": "Jimmy Laurent"
+  },
+  "bugs": {
+    "url": "https://github.com/JimmyLaurent/hcaptcha-solver/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "request": "^2.88.2",
+    "request-promise-native": "^1.0.8"
+  },
+  "deprecated": false,
+  "description": "A library to solve hCaptcha challenges",
+  "homepage": "https://github.com/JimmyLaurent/hcaptcha-solver#readme",
+  "keywords": [
+    "hcaptcha",
+    "bypass",
+    "solve"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "hcaptcha-solver",
+  "prettier": {
+    "printWidth": 100,
+    "singleQuote": true,
+    "trailingComma": "none",
+    "parser": "flow",
+    "semi": true,
+    "tabWidth": 2
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/JimmyLaurent/hcaptcha-solver.git"
+  },
+  "version": "1.0.2"
+}
